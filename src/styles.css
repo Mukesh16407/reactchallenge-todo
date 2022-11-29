@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.allTodos {
+  margin: 170px;
+  padding: 0;
+  margin-top: 20px;
+  width: 200px;
+}
+.singleTodo {
+  margin: 10px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.singleText {
+  flex: 1;
+}
